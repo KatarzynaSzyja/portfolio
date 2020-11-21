@@ -4,7 +4,7 @@
 Junior Software Tester looking for opportunities to work onsite or remotely as a manual tester or in test automation using Selenium. Though the market is not easy now for new joiners due to the pandemic outbreak, I hope I'll be given a chance to prove how eager to learn I really am :) I already took the first step towards becoming a tester by taking part in "Software Tester" course at Software Development Academy, which was great - I've learned there a lot. While looking for opportunities, I'm continually improving my skills in Selenium and SQL under the supervision of an experienced software developer. 
 
 ## Tools
-***
+
 * #### Programming languages and frameworks:
 * #### Database: MySQL, 
 * #### Operating Systems: Windows,
@@ -18,7 +18,7 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
   * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web,
 
 ## Tech skills
-***
+
 * Software testing
 * SCRUM
 * DevTools
