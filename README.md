@@ -28,14 +28,32 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 
 
 ## Certificates
+1. ISTQB Certyfied Tester Foundation Level - No. 15181/FLCT/2020
+2. Software tester - No. 120/08/2020
 ***
 ## Courses
-***
+* Build Responsive Real World Websites with HTML5 and CSS3 - Udemy (12h - during) 
+* "Software Tester" course - SDA (116h)
+* Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver - Udemy (2,5h)
+* Workshop "Software Testing" - TestArmy (8h)
+* Training "Invitation to Scrum" - TAURON (4h)
+* Introduction to databases - Akademia Kodu (4h)
+* Programmer of Java basics - Akademia Kodu (4h)
+* Agile and Project Delivery - Udemy (1h)
+
 ## Books
-***
+* "Podróż przez świat testowania" K. Pawłowska, N. Pawlak
+* "Praktyka testowania" R. Smilgin
+
 ## Groups of Facebook
 ***
 ## Webinars
+* Webinar: Czy w IT jest praca dla juniora? - Future Collars
+* Podtsawy Javy - Akademia Kodu
+* Od laika do automatyka - od czego zacząć - Tomasz Stelmach
+* Wprowadzenie Do Baz Danych - Akademia Kodu
+* Scrum Patterns - Andrii Gluschenko
+
 ***
 ## Recommended blogs
 ***
