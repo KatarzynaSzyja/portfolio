@@ -46,17 +46,22 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 * "Praktyka testowania" R. Smilgin
 
 ## Groups of Facebook
-***
+* It Jobs for Intern/Junior
+* Opinie o firmach w IT
+* Tester oprogramowania - wsparcie na starcie
+* Cherry-It: Zostań Testerem
+* Testowanie oprogramowania
+* Qa Testers - job offers, oferty pracy, jobangebote
+* IT na szpilkach
 ## Webinars
 * Webinar: Czy w IT jest praca dla juniora? - Future Collars
 * Podtsawy Javy - Akademia Kodu
 * Od laika do automatyka - od czego zacząć - Tomasz Stelmach
 * Wprowadzenie Do Baz Danych - Akademia Kodu
 * Scrum Patterns - Andrii Gluschenko
-
-***
 ## Recommended blogs
-***
+* Kobiety do kodu
+* Samouczek programisty
 ## My test case examples
 ***
 ## My bug reports
