@@ -30,7 +30,7 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 ## Certificates
 1. ISTQB Certyfied Tester Foundation Level - No. 15181/FLCT/2020
 2. Software tester - No. 120/08/2020
-***
+
 ## Courses
 * Build Responsive Real World Websites with HTML5 and CSS3 - Udemy (12h - during) 
 * "Software Tester" course - SDA (116h)
