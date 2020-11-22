@@ -63,12 +63,12 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 * Kobiety do kodu
 * Samouczek programisty
 ## My test case examples
-***
+
 ## My bug reports
-***
+
 ## My examples of CSS Selectors and xPaths
-***
+
 ## My bug reports
-***
+
 ## My projects
-***
+
