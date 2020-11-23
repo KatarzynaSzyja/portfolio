@@ -62,6 +62,7 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 ## Recommended blogs
 * Kobiety do kodu
 * Samouczek programisty
+* www.wyszkolewas.com.pl
 ## My test case examples
 
 ## My bug reports
