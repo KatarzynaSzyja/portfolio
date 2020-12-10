@@ -71,8 +71,7 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 ## My projects
 1. Webside - BuyONE
 My project is still in progress, but I decided to show you what I do now. 
- * [BuyONE](https://docs.google.com/presentation/d/10MyuEs2f-Knplk773noER9BtTTkspB1lQRStMzN3UfU/edit?usp=sharing)
- * [BuyONE - kod](https://drive.google.com/drive/folders/19eXZ3otqWZMWwOMu6O9kl5QfaLkNnoJN?usp=sharing)
+ * [BuyONE - kod i prezentacja](https://drive.google.com/drive/folders/19eXZ3otqWZMWwOMu6O9kl5QfaLkNnoJN?usp=sharing)
 
 
 
