@@ -1,12 +1,13 @@
 # PORTFOLIO
 
 ## About Me ![alt](https://media-exp1.licdn.com/dms/image/C4E35AQGUOXVQaiR4gA/profile-framedphoto-shrink_200_200/0/1607627452182?e=1607716800&v=beta&t=4UoLmI9DSzjKaoGUviVTEtUcOHc3sxbF5qnYZK61YJU)
-Junior Software Tester looking for opportunities to work onsite or remotely as a manual tester or in test automation using Selenium. Though the market is not easy now for new joiners due to the pandemic outbreak, I hope I'll be given a chance to prove how eager to learn I really am :) I already took the first step towards becoming a tester by taking part in "Software Tester" course at Software Development Academy, which was great - I've learned there a lot. While looking for opportunities, I'm continually improving my skills in Selenium and SQL under the supervision of an experienced software developer. 
+Junior Software Tester looking for opportunities to work onsite or remotely as a manual tester or in test automation using Selenium. Though the market is not easy now for new joiners due to the pandemic outbreak, I hope I'll be given a chance to prove how eager to learn I really am :) I already took the first step towards becoming a tester by taking part in "Software Tester" course at Software Development Academy, which was great - I've learned there a lot. While looking for opportunities, I'm continually improving my skills in Selenium, HTML5,CSS3 and SQL under the supervision of an experienced software developer. 
 
 ## Tools
 
-* #### Programming languages and frameworks:
-* #### Database: MySQL, 
+* #### Programming languages and frameworks:Java,
+* #### Database: MySQL,
+* #### Text editor: Brackets,
 * #### Operating Systems: Windows,
 * #### Learned management methodologies: Scrum, 
 * #### Test management tools:
@@ -32,14 +33,14 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 2. Software tester - No. 120/08/2020
 
 ## Courses
-* Build Responsive Real World Websites with HTML5 and CSS3 - Udemy (12h - during) 
-* "Software Tester" course - SDA (116h)
-* Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver - Udemy (2,5h)
-* Workshop "Software Testing" - TestArmy (8h)
-* Training "Invitation to Scrum" - TAURON (4h)
-* Introduction to databases - Akademia Kodu (4h)
-* Programmer of Java basics - Akademia Kodu (4h)
-* Agile and Project Delivery - Udemy (1h)
+* Build Responsive Real World Websites with HTML5 and CSS3 - Udemy (during) 
+* "Software Tester" course - SDA 
+* Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver - Udemy 
+* Workshop "Software Testing" - TestArmy 
+* Training "Invitation to Scrum" - TAURON 
+* Introduction to databases - Akademia Kodu 
+* Programmer of Java basics - Akademia Kodu 
+* Agile and Project Delivery - Udemy 
 
 ## Books
 * "Podróż przez świat testowania" K. Pawłowska, N. Pawlak
@@ -67,9 +68,11 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 
 ## My bug reports
 
-## My examples of CSS Selectors and xPaths
-
-## My bug reports
-
 ## My projects
+1. Webside - BuyONE
+My project is still in progress, but I decided to show you what I do now. 
+ * [BuyONE](https://docs.google.com/presentation/d/10MyuEs2f-Knplk773noER9BtTTkspB1lQRStMzN3UfU/edit?usp=sharing)
+
+
+
 
