@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-## About Me ![alt](https://media-exp1.licdn.com/dms/image/C4E35AQGUOXVQaiR4gA/profile-framedphoto-shrink_200_200/0/1607627452182?e=1607716800&v=beta&t=4UoLmI9DSzjKaoGUviVTEtUcOHc3sxbF5qnYZK61YJU)
+## About Me 
 Junior Software Tester looking for opportunities to work onsite or remotely as a manual tester or in test automation using Selenium. Though the market is not easy now for new joiners due to the pandemic outbreak, I hope I'll be given a chance to prove how eager to learn I really am :) I already took the first step towards becoming a tester by taking part in "Software Tester" course at Software Development Academy, which was great - I've learned there a lot. While looking for opportunities, I'm continually improving my skills in Selenium, HTML5,CSS3 and SQL under the supervision of an experienced software developer. 
 
 ## Tools
