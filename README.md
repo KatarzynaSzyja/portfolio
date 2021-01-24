@@ -68,10 +68,7 @@ Junior Software Tester looking for opportunities to work onsite or remotely as a
 
 ## My bug reports
 * [Bug - Jira ](https://drive.google.com/file/d/1OiHf44zR49tlXutB0VBWcQdbz6-ye2Wa/view?usp=sharing)
-## My projects
-1. Webside - BuyONE
-My project is still in progress, but I decided to show you what I do now. 
- * [BuyONE - kod i prezentacja](https://drive.google.com/drive/folders/19eXZ3otqWZMWwOMu6O9kl5QfaLkNnoJN?usp=sharing)
+
 
 
 
